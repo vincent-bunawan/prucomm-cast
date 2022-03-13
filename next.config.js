@@ -6,4 +6,7 @@ module.exports = {
     ACCESS_TOKEN_SECRET: "prucommadalahprojectsulit",
     REFRESH_TOKEN_SECRET: "iniadalahrefreshtokenprucomm",
   },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 };
