@@ -1,0 +1,34 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img{
+  object-fit: cover;
+}
+
+avatar{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  transform: translateY(-3px);
+  margin-right: 3px;
+}
+
+/* Loading */
+@import url("./loading.css");
+
+/* Product */
+@import url("./product.css");

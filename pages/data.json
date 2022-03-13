@@ -1,0 +1,27 @@
+
+{
+    "Abouts": [
+      {
+          "id": "a1",
+        "image": "/fitness.jpg",
+        "title": "First Slide",
+        "desc": "Nulla vitae elit libero, a pharetra augue mollis interdum."
+        
+      },
+      {
+        "id": "a2",
+
+        "image": "/medicine.png",
+        "title": "Second Slide",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      {
+        "id": "a3",
+
+        "image": "/running.jpg",
+        "title": "Third Slide",
+        "desc": "Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+      }
+    ]
+ 
+}

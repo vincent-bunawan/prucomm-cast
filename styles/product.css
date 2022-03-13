@@ -1,0 +1,29 @@
+.products{
+    display: inline;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.products .card{
+    margin: 10px auto;
+}
+
+.products .card-img-top{
+    width: fit-content;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.products .card-title{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.products .card-text{
+    height: 70px;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
