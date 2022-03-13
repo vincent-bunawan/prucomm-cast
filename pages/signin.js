@@ -53,7 +53,7 @@ const Signin = () => {
     if (Object.keys(auth).length > 0) {
       router.push("/");
     }
-  }, [auth]);
+  }, [auth, router]);
   return (
     <div>
       <Head>

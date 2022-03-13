@@ -138,7 +138,7 @@ const About = () => {
             <div className="col-md-7">
               <h2 className="featurette-heading">
                 First featurette heading.{" "}
-                <span className="text-muted">It'll blow your mind.</span>
+                <span className="text-muted">It&#39;ll blow your mind.</span>
               </h2>
               <p className="lead">
                 Donec ullamcorper nulla non metus auctor fringilla. Vestibulum
@@ -163,7 +163,7 @@ const About = () => {
           <div className="row featurette">
             <div className="col-md-7 order-md-2">
               <h2 className="featurette-heading">
-                Oh yeah, it's that good.{" "}
+                Oh yeah, it&#39;s that good.{" "}
                 <span className="text-muted">See for yourself.</span>
               </h2>
               <p className="lead">
